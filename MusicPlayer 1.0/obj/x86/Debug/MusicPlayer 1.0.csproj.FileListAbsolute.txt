@@ -1,0 +1,47 @@
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.exe
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.pdb
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.ResolveComReference.cache
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.Properties.Resources.resources
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.GenerateResource.Cache
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.exe
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.pdb
+C:\Users\Avijit\AppData\Local\Temporary Projects\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.frmMain.resources
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.exe
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.pdb
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.ResolveComReference.cache
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.frmMain.resources
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.Properties.Resources.resources
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.GenerateResource.Cache
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.exe
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.pdb
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.exe.config
+C:\Users\Avijit\documents\visual studio 2010\Projects\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.LoginForm.resources
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.exe.config
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\Interop.MediaPlayer.dll
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\Interop.WMPLib.dll
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.ResolveComReference.cache
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.exe
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.pdb
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.exe
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\MusicPlayer 1.0.pdb
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\Interop.WMPLib.dll
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\bin\Debug\AxInterop.WMPLib.dll
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csprojResolveAssemblyReference.cache
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.frmMain.resources
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.LoginForm.resources
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.Properties.Resources.resources
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer 1.0.csproj.GenerateResource.Cache
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.frmUpdatePassword.resources
+E:\AVIJIT\PROJECT\MusicPlayer 1.0\MusicPlayer 1.0\obj\x86\Debug\MusicPlayer_1._0.frmAddUser.resources
